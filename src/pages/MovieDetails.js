@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from 'react'
+import { useEffect, useState } from 'react'
 import { useParams } from 'react-router-dom'
 import logo_192 from '../assets/logo.svg';
 export const MovieDetails = () => {
